@@ -3,6 +3,7 @@ from sqlalchemy.orm import sessionmaker
 
 from models import User, Game, Review
 
+
 class TestReview:
     '''Review in models.py'''
 
